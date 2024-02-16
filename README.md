@@ -1,1 +1,1 @@
-Este proyecto consiste en la gestión de un sistema de Bicing bifurcado. El Bicing es un árbol binario donde los nodos son las estaciones de bicis, donde se pueden llevar a cabo diversas operaciones para gestionar las bicicletas almacenadas.
+This project consists of the management of a bifurcated Bicing system. Bicing is a binary tree where the nodes are the bike stations, where various operations can be carried out to manage the stored bicycles.
